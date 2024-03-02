@@ -30,6 +30,22 @@ streamlit run main.py
 Upload your desired documents in PDF, DOCX, PPTX, HTML, LaTeX, or plain text format.
 Ask questions related to the document content and interact with the chatbot.
 
+# Demo : 
+1. One Pdf of Research Paper is uploaded & query is asked to "summarize the document"
+![Screenshot 2024-03-02 111149](https://github.com/parthjrana01/Chat-with-Document/assets/131896580/d3a68b44-d776-4a09-babd-2cb8833bc7ea)
+
+2. Another question is answered by the Model for Pdf
+![Screenshot 2024-03-02 111219](https://github.com/parthjrana01/Chat-with-Document/assets/131896580/08a5ec8e-6a5f-4141-a27d-0a20b9a6e5eb)
+
+3. Demonstration for PPTX
+![Screenshot 2024-03-02 111243](https://github.com/parthjrana01/Chat-with-Document/assets/131896580/fa0771ec-f1a3-4914-ab8e-d3f7c1a067bb)
+
+4. Demonstration for DOCX
+![Screenshot 2024-03-02 111308](https://github.com/parthjrana01/Chat-with-Document/assets/131896580/fcf7d8dc-beba-4d77-b233-0c04e338fc54)
+
+
+
+
 
 
 # Usage
