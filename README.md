@@ -39,7 +39,7 @@ Submit & Process: Click the button to submit your query and process the document
 View Responses: The chatbot will generate responses based on the provided question and document content.
 
 
-# Contributors \n
+# Contributors
 #### Rana Parth
 #### Arafat Sable
 #### Jay Valaki 
