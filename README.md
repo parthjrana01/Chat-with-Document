@@ -10,9 +10,12 @@ Semantic Embeddings: Utilizes Google's Generative AI embeddings for understandin
 Conversational AI: Implements a conversational AI model to answer user queries based on the provided context and question.
 FAISS Vector Store: Utilizes FAISS for efficient similarity search based on semantic embeddings.
 
+![Lang drawio](https://github.com/parthjrana01/Chat-with-Document/assets/131896580/854c5c8c-2ccf-4922-b979-4b89784be5f1)
+
+
 # Setup
 1. Clone the Repository:
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/parthjrana01/Chat-with-Document.git
 cd your-repo
 
 
@@ -37,8 +40,8 @@ View Responses: The chatbot will generate responses based on the provided questi
 
 
 # Contributors
-Rana Parth
-Arafat Sable
-Jay Valaki 
-Aditya Sapara
-Mehul Zalaiya
+#### Rana Parth
+#### Arafat Sable
+#### Jay Valaki 
+#### Aditya Sapara
+#### Mehul Zalaiya
